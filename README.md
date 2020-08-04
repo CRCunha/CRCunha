@@ -1,7 +1,5 @@
-<p align="center">
-<img src="https://i.imgur.com/Y8ksfgm.png" width="150"/>
-</p>
-<h3 align="center">Front end developer in constant search for improvement</h3>
+
+<h3 align="left">Front end developer in constant search for improvement</h3>
 <br />
 
 - 🔭 I’m currently working on [DashBoard](https://github.com/CRCunha/dashboard)
